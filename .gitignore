@@ -2,3 +2,5 @@
 *.db
 *.pdb
 .vs/myrespository/v16/Browse.VC.opendb
+.vs/myrespository/v16/ipch/
+x64/
